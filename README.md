@@ -11,3 +11,5 @@ container diagram: https://ibb.co/0fVGNPV
 For the demonstration the interval is set to 15 seconds.
 - Tests can be run via Test Explorer
 - To run the application, you will need to run the LearnLanguage\bin\Debug\LearnLanguage.exe file
+
+Автор: Шелаев Илья Ростиславович, группа 3530202/90201
