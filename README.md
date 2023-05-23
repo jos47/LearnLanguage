@@ -11,7 +11,6 @@ context diagram:
 ---------------------------------------
 container diagram:
 ![container diagram](https://github.com/jos47/LearnLanguage/assets/65028758/396fe4c1-f685-40b2-91bf-0cc9b490d0f9)
-
 ---------------------------------------
 
 For the demonstration the interval is set to 15 seconds.
