@@ -14,4 +14,4 @@ For the demonstration the interval is set to 15 seconds.
 - Tests can be run via Test Explorer
 - To run the application open LearnLanguage\bin\Debug\LearnLanguage.exe
 
-Автор: Шелаев Илья Ростиславович, группа 3530202/90201
+Shelaev Ilya Rostislavovich, 3530202/90201 for SPbPU
